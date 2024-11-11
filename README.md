@@ -2,6 +2,8 @@
 Material supporting the presentation of the project.
 
 ### Videos in case the live demo doesn't work
+They include the overview of the frontend, news search, topic search, category search, and the API docs.
+
 - part 1
 
 https://github.com/user-attachments/assets/bae45b38-2d5e-4a91-8850-59de83351c9f
